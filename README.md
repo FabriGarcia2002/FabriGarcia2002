@@ -1,6 +1,6 @@
 <h2> ¡Hola! Mi nombre es Fabricio Garcia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h2>
 
----
+
 
 ### 👨‍💻 Sobre mí
 
