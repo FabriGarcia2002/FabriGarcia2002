@@ -1,4 +1,3 @@
-<img align="right" height="150" src="https://i.pinimg.com/originals/e5/56/ab/e556abe60be7421d18de3d911f6bb958.gif" />
 
 ## 👋 ¡Hola! Mi nombre es Fabricio Garcia
 
@@ -9,7 +8,7 @@
 Soy **Ingeniero en Computación** desde 2025 y un apasionado del mundo tecnológico. Me encanta todo lo relacionado con el **desarrollo**, el **análisis** y la **administración de sistemas**. Actualmente me desempeño como **Desarrollador Jr.** en una de las principales empresas de telecomunicaciones en **Honduras**, donde sigo creciendo profesionalmente y explorando diferentes áreas del mundo **IT**. Siempre estoy en búsqueda de nuevos conocimientos, retos y oportunidades que me permitan mejorar mis habilidades y aportar soluciones efectivas.
 
 <p align="center">
-  <img src="https://media.tenor.com/L2NVsm9IRsUAAAAi/mario-bros-star-star-arcade.gif" width="200"/>
+  <img src="https://media.tenor.com/L2NVsm9IRsUAAAAi/mario-bros-star-star-arcade.gif](https://i.pinimg.com/originals/e5/56/ab/e556abe60be7421d18de3d911f6bb958.gif" width="200"/>
 </p>
 
 ---
