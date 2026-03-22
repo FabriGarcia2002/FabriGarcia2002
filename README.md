@@ -4,7 +4,7 @@
 
 ### 👨‍💻 Sobre mí
 
- Soy **Ingeniero en Computación** desde 2025 y un apasionado del mundo tecnológico. Me encanta todo lo relacionado con el desarrollo, el análisis y la administración de sistemas.Actualmente  me desempeño como **Desarrollador Jr.** en una de las principales empresas de telecomunicaciones en **Honduras**, donde sigo creciendo profesionalmente y explorando diferentes áreas del mundo IT.Siempre estoy en búsqueda de nuevos conocimientos, retos y oportunidades que me permitan mejorar mis habilidades y aportar soluciones efectivas.
+ Soy **Ingeniero en Computación** desde 2025 y un apasionado del mundo tecnológico. Me encanta todo lo relacionado con el desarrollo, el análisis y la administración de sistemas.Actualmente  me desempeño como **Desarrollador** en una de las principales empresas de telecomunicaciones en **Honduras**, donde sigo creciendo profesionalmente y explorando diferentes áreas del mundo IT.Siempre estoy en búsqueda de nuevos conocimientos, retos y oportunidades que me permitan mejorar mis habilidades y aportar soluciones efectivas.
 
 <br>
 
@@ -24,7 +24,6 @@
    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" />
    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
    
 
 
@@ -32,7 +31,6 @@
 
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
     <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
 
 
 
