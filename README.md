@@ -4,7 +4,11 @@
 
 ### 👨‍💻 Sobre mí
 
- Soy **Ingeniero en Computación** desde 2025 y un apasionado del mundo tecnológico. Me encanta todo lo relacionado con el desarrollo, el análisis y la administración de sistemas.Actualmente  me desempeño como **Desarrollador** en una de las principales empresas de telecomunicaciones en **Honduras**, donde sigo creciendo profesionalmente y explorando diferentes áreas del mundo IT.Siempre estoy en búsqueda de nuevos conocimientos, retos y oportunidades que me permitan mejorar mis habilidades y aportar soluciones efectivas.
+Soy Ingeniero en Computación con una sólida pasión por el desarrollo de software, DevOps y las operaciones tecnológicas. Me especializo en la construcción, mantenimiento y optimización de sistemas, con un enfoque en la automatización, la eficiencia operativa y las buenas prácticas de ingeniería.
+
+Actualmente me desempeño en el área de operaciones en una de las principales empresas de telecomunicaciones en Honduras, participando activamente en la gestión y soporte de entornos productivos, mientras continúo desarrollando soluciones de software que aportan valor al negocio.
+
+Me interesa profundamente el mundo de DevOps, la infraestructura moderna, la observabilidad y la mejora continua de procesos. Me encuentro en constante aprendizaje, combinando desarrollo y operaciones para fortalecer mis habilidades técnicas y contribuir a la creación de sistemas más robustos, escalables y eficientes.
 
 <br>
 
